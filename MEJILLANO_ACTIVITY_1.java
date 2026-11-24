@@ -46,4 +46,14 @@ public class MEJILLANO_ACTIVITY_1 {
 }
     
     
+/* QUESTION:
+Submit one prompt you used, what you accepted or rejected from the reply, 
+and how you checked it.
+
+One prompt I used was to check whether the code was entirely right. I made ChatGPT
+and Gemini check my code and their responses stated my code was 
+logically correct, however it said that I had to have a separate java class, in
+which i forgot to upload. Other than that, there was no problem at all.
+*/
+
 
